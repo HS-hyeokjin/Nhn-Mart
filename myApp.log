@@ -1,0 +1,6 @@
+2023-09-03 22:29:54,990 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:21] - NhnMart 실행.
+2023-09-03 22:30:03,753 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:27] - BuyList 입력 받음: 3 아이템.
+2023-09-03 22:30:03,757 [main] DEBUG c.n.m.NhnMartShell [NhnMartShell.java:34] - 고객 생성.
+2023-09-03 22:30:03,758 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:38] - 장바구니를 챙긴다.
+2023-09-03 22:30:03,758 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:43] - 식품을 담는다.
+2023-09-03 22:30:03,767 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:47] - 카운터에서 계산한다.

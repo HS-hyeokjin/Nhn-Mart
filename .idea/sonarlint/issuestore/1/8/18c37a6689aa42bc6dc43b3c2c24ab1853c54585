@@ -1,0 +1,10 @@
+
+g	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ïæıÿÿÿÿ8¾ë‡Ù¥1
+C
+java:S1170
+"!Make this final field static too.(‰œ°úÿÿÿÿ8÷­í×¥1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ùÉºŠúÿÿÿÿ8Š®í×¥1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ˆŸÂ³ÿÿÿÿÿ8‹®í×¥1
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8àì‡Ù¥1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ÕÌ¿Çıÿÿÿÿ8î’ŠÙ¥1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ßé¯œøÿÿÿÿ8î’ŠÙ¥1
